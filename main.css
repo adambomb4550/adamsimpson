@@ -107,3 +107,8 @@ ul li a:hover {
   color: #7ac4b1;
   display: inline-block;
 }
+
+.seniors {
+  display: grid;
+  grid-template-columns: 
+}
